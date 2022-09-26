@@ -16,3 +16,17 @@ El kit de soldadura **DIY** (Hazlo tú mismo) **Boby One** permite a los aficion
 - PCB Boby One (solder mask:morado, surface finish: LeadFree HASL-RoHS)   x1
 
 El circuito eléctrico de **Boby One** es un arreglo de transistores y condensadores que genera un pulso que enciende y apaga varios leds.
+
+![](https://github.com/Bit-Hard/Kit-DIY-Boby-One/blob/4f2df335e6599dcb5c4ebd393a86b52d6efd0993/Boby%20One.jpg)
+
+### Licencia
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+Esta obra está licenciada bajo 
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
